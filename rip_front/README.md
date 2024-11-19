@@ -1,1 +1,0 @@
-# rip_front
