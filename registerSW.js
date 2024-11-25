@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/front-pg/sw.js', { scope: '/front-pg/' })})}
