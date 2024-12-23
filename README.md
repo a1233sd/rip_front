@@ -1,1 +1,1 @@
-# rip_front
+[Ссылка на бэкенд](https://github.com/a1233sd/RiP)
